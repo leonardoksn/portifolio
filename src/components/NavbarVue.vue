@@ -63,7 +63,7 @@ const scrollToSection = (section: string) => {
                 <a @click="scrollToSection('skills')">
                     Skills
                 </a>
-            </li>
+            </li>ção as 18 anos n
         </ul>
     </div>
 </template>

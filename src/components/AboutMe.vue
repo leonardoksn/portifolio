@@ -18,9 +18,9 @@
                         solucionar problemas.
                         <br />
                         <br />
-                        Comecei a estudar programação as 18 anos na faculdade de Bacharelado em Sistemas de Informação no Instituto Catarinense de Camboriú.
+                        Comecei a estudar programação aos 18 anos na faculdade de Bacharelado em Sistemas de Informação no Instituto Catarinense de Camboriú.
                         <br />
-                        Consegui um estágio com o curso e então 1 anos depois consegui meu primeiro emprego como desenvendedor júnior em Itapema no Grupo Koch. Agora sou
+                        Consegui um estágio com o curso e então 1 ano depois meu primeiro emprego como desenvendedor júnior em Itapema no Grupo Koch. Agora sou
                         desenvolvedor full-stack pleno no Koch resolvendo problemas internos para a maior rede de supermercados de Santa Catarina.
                     </p>
                 </div>

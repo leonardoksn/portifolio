@@ -50,23 +50,18 @@ const scrollToSection = (section: string) => {
         <ul v-if="nav"
             class='absolute top-0 left-0 w-full h-screen bg-[#22333b] flex flex-col justify-center items-center text-white'>
             <li class="py-6 text-4xl">
-                <a @click="handleClick" to="home" smooth={true} duration={500}>
+                <a @click="scrollToSection('home')">
                     Home
                 </a>
             </li>
             <li class="py-6 text-4xl">
-                <a @click="handleClick" to="home" smooth={true} duration={500}>
-                    About
+                <a @click="scrollToSection('about')" >
+                    Sobre
                 </a>
             </li>
             <li class="py-6 text-4xl">
-                <a @click="handleClick" to="home" smooth={true} duration={500}>
+                <a @click="scrollToSection('skills')">
                     Skills
-                </a>
-            </li>
-            <li class="py-6 text-4xl">
-                <a @click="handleClick" to="projects" smooth={true} duration={500}>
-                    Projects
                 </a>
             </li>
         </ul>

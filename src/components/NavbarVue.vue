@@ -22,7 +22,7 @@ const scrollToSection = (section: string) => {
 <template>
     <div class="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#011627] text-gray-200">
         <div>
-            <img src="../assets/logo_l_light.png" alt="Logo" style="width: 50px;" />
+            <img src="../assets/logo.png" alt="Logo" style="width: 50px;" />
         </div>
 
         <ul class="hidden md:flex ">
